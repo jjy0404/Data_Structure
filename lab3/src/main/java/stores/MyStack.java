@@ -1,0 +1,56 @@
+package stores;
+
+import interfaces.IStack;
+
+public class MyStack<E> implements IStack<E> {
+    DoublyLinkedList<E> stack;
+    public MyStack() {
+	this.stack = new DoublyLinkedList<E>();
+    }
+
+    // INCOMPLETE.
+    public void push(E val) {
+        //  TODO: implement pushing
+	stack.addToHead(val);
+    }
+
+    // INCOMPLETE.
+    public E pop() {
+        //  TODO: implement popping
+	 return stack.removeFromHead();
+    }
+
+    // INCOMPLETE
+    public boolean isEmpty() {
+        //  TODO: check whether list is empty
+        return stack.isEmpty();
+    }
+
+    //INCOMPLETE
+    public String toString() {
+        // TODO: produces a String of the contents of the queue
+	if (stack.isEmpty()) {
+	    return"[]";
+	}
+	StringBuilder sb = new StringBuilder("[");
+	DoublyLinkedList<E> copy = new DoublyLinkedList<E>();
+	//get element from stack then add to tail of copy
+	while (stack.isEmpty() != true) {
+	    E tem = stack.removeFromHead();
+	    sb.append(tem);
+
+	    if (stack.isEmpty() != true) {
+		sb.append(", ");
+	    }
+	    else {
+		sb.append("]");
+	    }
+
+	    copy.addToTail(tem);
+	}
+	
+        stack = copy; 
+	
+        return sb.toString();
+    }
+}

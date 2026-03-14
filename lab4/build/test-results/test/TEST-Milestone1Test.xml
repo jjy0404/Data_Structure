@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Milestone1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-19T20:17:23" hostname="dcslab-40" time="0.002">
+  <properties/>
+  <testcase name="getMainOutput()" classname="Milestone1Test" time="0.002"/>
+  <system-out><![CDATA[[hello, is, my, name]
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

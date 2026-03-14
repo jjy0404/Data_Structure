@@ -1,0 +1,192 @@
+Adding 2 to root.
+ Adding 4 to right sub-tree of 2
+Adding 1 to left sub-tree of 2
+ Adding 5 to right sub-tree of 2
+ Adding 5 to right sub-tree of 4
+ Adding 3 to right sub-tree of 2
+Adding 3 to left sub-tree of 4
+----- In Order -----
+(Inorder traversal: "1" "2" "3" "4" "5" 
+
+----- Pre Order -----
+)Preorder traversal: "2" "1" "4" "3" "5" 
+
+----- Post Order -----
+*Postorder traversal: "1" "3" "5" "4" "2" 
+
+Adding hotel to root.
+(Adding tango to right sub-tree of hotel
+%Preorder traversal: "hotel" "tango" 
+
+Adding hotel to root.
+)Adding foxtrot to left sub-tree of hotel
+
+Adding hotel to root.
+)Adding foxtrot to left sub-tree of hotel
+(Adding tango to right sub-tree of hotel
+'Adding delta to left sub-tree of hotel
+)Adding delta to left sub-tree of foxtrot
+&Adding golf to left sub-tree of hotel
+)Adding golf to right sub-tree of foxtrot
+'Adding lema to right sub-tree of hotel
+&Adding lema to left sub-tree of tango
+'Adding xray to right sub-tree of hotel
+'Adding xray to right sub-tree of tango
+
+Adding hotel to root.
+
+Adding hotel to root.
+)Adding foxtrot to left sub-tree of hotel
+'Preorder traversal: "hotel" "foxtrot" 
+
+	Adding hotel to root.
+	)Adding foxtrot to left sub-tree of hotel
+	(Adding tango to right sub-tree of hotel
+	'Adding delta to left sub-tree of hotel
+	)Adding delta to left sub-tree of foxtrot
+	&Adding golf to left sub-tree of hotel
+	)Adding golf to right sub-tree of foxtrot
+	'Adding lema to right sub-tree of hotel
+	&Adding lema to left sub-tree of tango
+	'Adding xray to right sub-tree of hotel
+	'Adding xray to right sub-tree of tango
+	LPreorder traversal: "hotel" "foxtrot" "delta" "golf" "tango" "lema" "xray" 
+	
+
+Adding hotel to root.
+
+Preorder traversal: "hotel" 
+
+
+Adding hotel to root.
+)Adding foxtrot to left sub-tree of hotel
+&Inorder traversal: "foxtrot" "hotel" 
+
+Adding hotel to root.
+)Adding foxtrot to left sub-tree of hotel
+(Adding tango to right sub-tree of hotel
+'Adding delta to left sub-tree of hotel
+)Adding delta to left sub-tree of foxtrot
+&Adding golf to left sub-tree of hotel
+)Adding golf to right sub-tree of foxtrot
+'Adding lema to right sub-tree of hotel
+&Adding lema to left sub-tree of tango
+'Adding xray to right sub-tree of hotel
+'Adding xray to right sub-tree of tango
+KInorder traversal: "delta" "foxtrot" "golf" "hotel" "lema" "tango" "xray" 
+
+Adding hotel to root.
+Inorder traversal: "hotel" 
+
+Adding hotel to root.
+(Adding tango to right sub-tree of hotel
+
+Adding hotel to root.
+(Adding tango to right sub-tree of hotel
+&Postorder traversal: "tango" "hotel" 
+
+Adding hotel to root.
+(Adding tango to right sub-tree of hotel
+$Inorder traversal: "hotel" "tango" 
+
+Adding hotel to root.
+)Adding foxtrot to left sub-tree of hotel
+(Postorder traversal: "foxtrot" "hotel" 
+
+Adding hotel to root.
+)Adding foxtrot to left sub-tree of hotel
+(Adding tango to right sub-tree of hotel
+'Adding delta to left sub-tree of hotel
+)Adding delta to left sub-tree of foxtrot
+&Adding golf to left sub-tree of hotel
+)Adding golf to right sub-tree of foxtrot
+'Adding lema to right sub-tree of hotel
+&Adding lema to left sub-tree of tango
+'Adding xray to right sub-tree of hotel
+'Adding xray to right sub-tree of tango
+MPostorder traversal: "delta" "golf" "foxtrot" "lema" "xray" "tango" "hotel" 
+
+Adding hotel to root.
+Postorder traversal: "hotel" 
+
+9="Input: -...	Expected: b	 Found: ?
+9=BInput: -.-.	Expected: c	 Found: Yipes! Can't decode Morse string!
+9=!Input: -..	Expected: d	 Found: d
+9="Input: ..-.	Expected: f	 Found: ?
+9=!Input: --.	Expected: g	 Found: g
+9="Input: ....	Expected: h	 Found: ?
+9=BInput: .---	Expected: j	 Found: Yipes! Can't decode Morse string!
+9=!Input: -.-	Expected: k	 Found: ?
+9="Input: .-..	Expected: l	 Found: ?
+9=!Input: ---	Expected: o	 Found: ?
+9=BInput: .--.	Expected: p	 Found: Yipes! Can't decode Morse string!
+9="Input: --.-	Expected: q	 Found: ?
+9=!Input: .-.	Expected: r	 Found: r
+9=!Input: ...	Expected: s	 Found: s
+9=!Input: ..-	Expected: u	 Found: u
+9="Input: ...-	Expected: v	 Found: ?
+9=!Input: .--	Expected: w	 Found: ?
+9="Input: -..-	Expected: x	 Found: ?
+9=BInput: -.--	Expected: y	 Found: Yipes! Can't decode Morse string!
+9="Input: --..	Expected: z	 Found: ?
+9=
+9=Count correct: 5
+9@"Input: -...	Expected: b	 Found: ?
+9@BInput: -.-.	Expected: c	 Found: Yipes! Can't decode Morse string!
+9@!Input: -..	Expected: d	 Found: d
+9@"Input: ..-.	Expected: f	 Found: ?
+9@!Input: --.	Expected: g	 Found: g
+9@"Input: ....	Expected: h	 Found: ?
+9@BInput: .---	Expected: j	 Found: Yipes! Can't decode Morse string!
+9@!Input: -.-	Expected: k	 Found: ?
+9@"Input: .-..	Expected: l	 Found: ?
+9@!Input: ---	Expected: o	 Found: ?
+9@BInput: .--.	Expected: p	 Found: Yipes! Can't decode Morse string!
+9@"Input: --.-	Expected: q	 Found: ?
+9@!Input: .-.	Expected: r	 Found: r
+9@!Input: ...	Expected: s	 Found: s
+9@!Input: ..-	Expected: u	 Found: u
+9@"Input: ...-	Expected: v	 Found: ?
+9@!Input: .--	Expected: w	 Found: ?
+9@"Input: -..-	Expected: x	 Found: ?
+9@BInput: -.--	Expected: y	 Found: Yipes! Can't decode Morse string!
+9@"Input: --..	Expected: z	 Found: ?
+9@
+9@Count correct: 5
+HGetamin
+HG
+HI"Input: -...	Expected: b	 Found: ?
+HI"Input: -.-.	Expected: c	 Found: ?
+HI!Input: -..	Expected: d	 Found: d
+HI"Input: ..-.	Expected: f	 Found: ?
+HI!Input: --.	Expected: g	 Found: g
+HI"Input: ....	Expected: h	 Found: ?
+HI"Input: .---	Expected: j	 Found: ?
+HI!Input: -.-	Expected: k	 Found: ?
+HI"Input: .-..	Expected: l	 Found: ?
+HI!Input: ---	Expected: o	 Found: ?
+HI"Input: .--.	Expected: p	 Found: ?
+HI"Input: --.-	Expected: q	 Found: ?
+HI!Input: .-.	Expected: r	 Found: r
+HI!Input: ...	Expected: s	 Found: s
+HI!Input: ..-	Expected: u	 Found: u
+HI"Input: ...-	Expected: v	 Found: ?
+HI!Input: .--	Expected: w	 Found: ?
+HI"Input: -..-	Expected: x	 Found: ?
+HI"Input: -.--	Expected: y	 Found: ?
+HI"Input: --..	Expected: z	 Found: ?
+HI
+HICount correct: 5
+HI
+HJt
+HJ
+HKe
+HK
+HLm
+HL
+HMn
+HM
+HNa
+HN
+HOi
+HO

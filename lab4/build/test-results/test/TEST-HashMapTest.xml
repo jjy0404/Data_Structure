@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HashMapTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-02-19T20:17:23" hostname="dcslab-40" time="0.005">
+  <properties/>
+  <testcase name="testFindAfterAdd()" classname="HashMapTest" time="0.001"/>
+  <testcase name="testFindAfterAdd2()" classname="HashMapTest" time="0.0"/>
+  <testcase name="testGetWithConflict()" classname="HashMapTest" time="0.0"/>
+  <testcase name="testAddViaGet()" classname="HashMapTest" time="0.001"/>
+  <testcase name="testFindWithConflict()" classname="HashMapTest" time="0.0"/>
+  <testcase name="testFindDefault()" classname="HashMapTest" time="0.0"/>
+  <testcase name="testGetDefault()" classname="HashMapTest" time="0.0"/>
+  <testcase name="testGetAfterAdd2()" classname="HashMapTest" time="0.001"/>
+  <system-out><![CDATA[Adding charmander under key 4 at location 4
+Adding charmander under key 4 at location 4
+Adding squirtle under key 7 at location 7
+Adding charmander under key 4 at location 4
+Adding pidgeotto under key 15 at location 4
+Adding charmander under key 4 at location 4
+Adding charmander under key 4 at location 4
+Adding pidgeotto under key 15 at location 4
+Adding charmander under key 4 at location 4
+Adding squirtle under key 7 at location 7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

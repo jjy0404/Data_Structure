@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LinkedListTest" tests="36" skipped="0" failures="0" errors="0" timestamp="2026-02-19T20:17:23" hostname="dcslab-40" time="0.02">
+  <properties/>
+  <testcase name="testGetAfterAdd()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testIndexOfAfterAdd()" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testSetAfterAdd2ViaToString2()" classname="LinkedListTest" time="0.008"/>
+  <testcase name="testSetAfterAdd2ViaGet()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testAdd2ViaIsEmpty()" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testAdd()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testClearViaToString()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testIndexOfAfterAdd2()" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testIsEmptyDefault()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testSetDefault()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testContainsNeg()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testContainsPos()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testAdd2ViaToString()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testSetAfterAdd2ViaToString()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testSetAfterAdd2ViaGet2()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testSetAfterAddViaToString()" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testIndexOfDefault()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveDefault()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testAddViaIsEmpty()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveNeg2()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemovePos2()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemovePos3()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testToStringDefault()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testSetAfterAddViaGet()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testSizeDefault()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testGetNeg()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testClearViaSize()" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testContainsDefault()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testAddViaSize()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testAdd2ViaSize()" classname="LinkedListTest" time="0.001"/>
+  <testcase name="testClearViaIsEmpty()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testGetDefault()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveNeg()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testRemovePos()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testAddViaToString()" classname="LinkedListTest" time="0.0"/>
+  <testcase name="testGetAfterAdd2()" classname="LinkedListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+/[I, the, middle, eggman, We, are, the, eggmen]
+
+I
+am
+the
+eggman
+
+[I, am, the, eggman]
+List has 4 elements
+9List contains the element "eggman": true	(expected true)
+?List contains the element "strawberry": false	(expected false)
+

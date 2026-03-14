@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EsromTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-02-25T13:18:38" hostname="dcslab-40" time="0.013">
+  <properties/>
+  <testcase name="testEsromMultiple()" classname="EsromTest" time="0.002"/>
+  <testcase name="testEsromMilestone2()" classname="EsromTest" time="0.007"/>
+  <testcase name="testEsromDash()" classname="EsromTest" time="0.0"/>
+  <testcase name="testEsromDot()" classname="EsromTest" time="0.001"/>
+  <testcase name="testEsromDashDash()" classname="EsromTest" time="0.0"/>
+  <testcase name="testEsromDashDot()" classname="EsromTest" time="0.0"/>
+  <testcase name="testEsromDotDash()" classname="EsromTest" time="0.001"/>
+  <testcase name="testEsromDotDot()" classname="EsromTest" time="0.0"/>
+  <system-out><![CDATA[etamin
+
+Input: -...	Expected: b	 Found: ?
+Input: -.-.	Expected: c	 Found: ?
+Input: -..	Expected: d	 Found: d
+Input: ..-.	Expected: f	 Found: ?
+Input: --.	Expected: g	 Found: g
+Input: ....	Expected: h	 Found: ?
+Input: .---	Expected: j	 Found: ?
+Input: -.-	Expected: k	 Found: ?
+Input: .-..	Expected: l	 Found: ?
+Input: ---	Expected: o	 Found: ?
+Input: .--.	Expected: p	 Found: ?
+Input: --.-	Expected: q	 Found: ?
+Input: .-.	Expected: r	 Found: r
+Input: ...	Expected: s	 Found: s
+Input: ..-	Expected: u	 Found: u
+Input: ...-	Expected: v	 Found: ?
+Input: .--	Expected: w	 Found: ?
+Input: -..-	Expected: x	 Found: ?
+Input: -.--	Expected: y	 Found: ?
+Input: --..	Expected: z	 Found: ?
+
+Count correct: 5
+
+t
+
+e
+
+m
+
+n
+
+a
+
+i
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

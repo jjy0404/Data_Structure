@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayListTest" tests="31" skipped="0" failures="0" errors="0" timestamp="2026-02-19T20:17:23" hostname="dcslab-40" time="0.023">
+  <properties/>
+  <testcase name="testGetAfterAdd()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testToStringAfterAdd2AndRemove()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testToStringAfterAdd()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testToStringAfterAdd2()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testAdd()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testSizeAddAndRemove()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testClearViaToString()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testIsEmptyDefault()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testSetDefault()" classname="ArrayListTest" time="0.004"/>
+  <testcase name="testContainsNeg()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testContainsPos()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testIsEmptyAdd()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testIndexOfDefault()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testIndexOfNeg()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testIndexOfPos()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testRemoveDefault()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testSizeAdd2AndRemove()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testToStringDefault()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testSizeDefault()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testClearViaSize()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testContainsDefault()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testSizeAdd()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testSetNeg()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testSetPos()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testClearViaIsEmpty()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testGetDefault()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testRemoveNeg()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testRemovePos()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testIsEmptyAdd2AndRemove()" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testIsEmptyAddAndRemove()" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testToStringAfterAddAndRemove()" classname="ArrayListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

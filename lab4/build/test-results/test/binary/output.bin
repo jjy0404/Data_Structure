@@ -1,0 +1,36 @@
+1Adding programming under key cs118 at location 4
+4Adding data structure under key cs126 at location 0
+>Adding mathematical programming under key ib104 at location 3
+6Adding sets and numbers under key ma138 at location 7
+1Adding calculus 1 under key ma142 at location 10
+0Adding calculus 2 under key ma143 at location 0
+:Adding vectors and matrices under key ma148 at location 5
+0Adding refresher under key ma1k2 at location 10
+;Adding statistical modelling under key st117 at location 9
+4Adding probability 1 under key st118 at location 10
+3Adding probability 2 under key st119 at location 0
+,Adding pyhsic under key as826 at location 7
+*Adding chem under key af156 at location 0
+)Adding bio under key gr157 at location 1
+2Adding engineering under key t2091 at location 10
+,Adding tennis under key hk145 at location 7
+,Adding korean under key so104 at location 4
+-Adding english under key ho194 at location 8
+-Adding grammar under key oj132 at location 5
+.Adding economic under key sf182 at location 3
+stores.HashMap@7d3e8655
+$#,Adding charmander under key 4 at location 4
+$%,Adding charmander under key 4 at location 4
+$%*Adding squirtle under key 7 at location 7
+$&,Adding charmander under key 4 at location 4
+$&,Adding pidgeotto under key 15 at location 4
+$',Adding charmander under key 4 at location 4
+$(,Adding charmander under key 4 at location 4
+$(,Adding pidgeotto under key 15 at location 4
+$+,Adding charmander under key 4 at location 4
+$+*Adding squirtle under key 7 at location 7
+lk[hello, is, my, name]
+lk
+nm[bye, he, hi, is]
+podExpected: [7, 10, 15, 19, 25, 36, 60, 67, 84, 92, 104, 115, 117, 132, 147, 171, 177, 183, 184, 195]
+podProduced: [7, 10, 15, 19, 25, 36, 60, 67, 84, 92, 104, 115, 117, 132, 147, 171, 177, 183, 184, 195]

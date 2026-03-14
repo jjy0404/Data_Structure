@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QueueProgramTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-12T20:19:34" hostname="viglab-21" time="0.002">
+  <properties/>
+  <testcase name="getMainOutput()" classname="QueueProgramTest" time="0.002"/>
+  <system-out><![CDATA[[4, 7, 2]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

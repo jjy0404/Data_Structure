@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StackProgramTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-12T20:19:34" hostname="viglab-21" time="0.003">
+  <properties/>
+  <testcase name="getMainOutput()" classname="StackProgramTest" time="0.003"/>
+  <system-out><![CDATA[[9, 5, 3]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

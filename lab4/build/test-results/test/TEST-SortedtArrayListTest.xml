@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SortedtArrayListTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2026-02-19T20:17:23" hostname="dcslab-40" time="0.006">
+  <properties/>
+  <testcase name="testAddMany()" classname="SortedtArrayListTest" time="0.002"/>
+  <testcase name="testAdd()" classname="SortedtArrayListTest" time="0.0"/>
+  <testcase name="testFindLinearMultipleNeg()" classname="SortedtArrayListTest" time="0.0"/>
+  <testcase name="testFindLinearMultiplePos()" classname="SortedtArrayListTest" time="0.001"/>
+  <testcase name="testAdd2()" classname="SortedtArrayListTest" time="0.0"/>
+  <testcase name="testFindBinaryDefault()" classname="SortedtArrayListTest" time="0.0"/>
+  <testcase name="testFindLinearNeg()" classname="SortedtArrayListTest" time="0.0"/>
+  <testcase name="testFindLinearPos()" classname="SortedtArrayListTest" time="0.0"/>
+  <testcase name="testFindBinaryMultipleNeg()" classname="SortedtArrayListTest" time="0.0"/>
+  <testcase name="testFindBinaryMultiplePos()" classname="SortedtArrayListTest" time="0.0"/>
+  <testcase name="testFindBinaryNeg()" classname="SortedtArrayListTest" time="0.001"/>
+  <testcase name="testFindBinaryPos()" classname="SortedtArrayListTest" time="0.0"/>
+  <testcase name="testFindLinearDefault()" classname="SortedtArrayListTest" time="0.0"/>
+  <system-out><![CDATA[Expected: [7, 10, 15, 19, 25, 36, 60, 67, 84, 92, 104, 115, 117, 132, 147, 171, 177, 183, 184, 195]
+Produced: [7, 10, 15, 19, 25, 36, 60, 67, 84, 92, 104, 115, 117, 132, 147, 171, 177, 183, 184, 195]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

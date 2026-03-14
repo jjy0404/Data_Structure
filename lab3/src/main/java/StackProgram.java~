@@ -1,0 +1,9 @@
+import stores.MyQueue;
+
+public class StackProgram {
+
+    public static void main(String[] args) {
+        //INCOMPLETE
+    }
+    
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyArrayListProgramTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-01T19:24:56" hostname="viglab-54" time="0.004">
+  <properties/>
+  <testcase name="getMainOutput()" classname="MyArrayListProgramTest" time="0.004"/>
+  <system-out><![CDATA[[I, am, the, eggman]
+List has 4 elements
+List contains the element "eggman": true	(expected true)
+List contains the element "strawberry": false	(expected false)
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

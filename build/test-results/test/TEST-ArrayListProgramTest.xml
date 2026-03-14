@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayListProgramTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-01T19:24:56" hostname="viglab-54" time="0.003">
+  <properties/>
+  <testcase name="getMainOutput()" classname="ArrayListProgramTest" time="0.003"/>
+  <system-out><![CDATA[[I, the, middle, eggman, We, are, the, eggmen]
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

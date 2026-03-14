@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ListElementTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-02-19T20:17:23" hostname="dcslab-40" time="0.002">
+  <properties/>
+  <testcase name="testGetPrevDefault()" classname="ListElementTest" time="0.0"/>
+  <testcase name="testGetValue()" classname="ListElementTest" time="0.0"/>
+  <testcase name="testGetAndSetNext()" classname="ListElementTest" time="0.0"/>
+  <testcase name="testGetAndSetPrev()" classname="ListElementTest" time="0.0"/>
+  <testcase name="testGetNextDefault()" classname="ListElementTest" time="0.0"/>
+  <testcase name="testGetAndSetPrevAndNext()" classname="ListElementTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+List BEFORE adding: []
+!List AFTER adding: [A. N. Other]
+
+Initial list: []
+/After adding A. N. Other to head [A. N. Other]
+3After adding J. Doe to tail: [A. N. Other, J. Doe]
+#After removing from head: [J. Doe]
+

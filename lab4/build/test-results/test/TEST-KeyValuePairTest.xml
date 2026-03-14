@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KeyValuePairTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-02-19T20:17:23" hostname="dcslab-40" time="0.001">
+  <properties/>
+  <testcase name="testGetValue()" classname="KeyValuePairTest" time="0.0"/>
+  <testcase name="testCompareToEquals()" classname="KeyValuePairTest" time="0.0"/>
+  <testcase name="testCompareToLess()" classname="KeyValuePairTest" time="0.001"/>
+  <testcase name="testCompareToGreater()" classname="KeyValuePairTest" time="0.0"/>
+  <testcase name="testGetKey()" classname="KeyValuePairTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
